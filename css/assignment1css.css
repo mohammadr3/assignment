@@ -1,0 +1,58 @@
+
+
+
+/*-------------------------------------------------------------------------------------------------------*/
+
+p{
+margin: 10px;
+}
+#om{
+    margin: 25px ;
+}
+
+.outer {
+    display: inline-block;
+    width: 385px;
+    height: 298px;
+    overflow: visible;
+    margin: 25px;
+    background-color: gray;
+    border: 1px;
+    border-color: black;
+    border-style: double;
+  }
+  
+  .box {
+    width: 80px;
+    height: 20px;
+    padding: 5px;
+    padding-left: 30px ;
+    padding-right: 15px ;
+    background: red;
+    color: white;
+    border: 1px;
+    border-color: black;
+    border-style: double;
+  }
+  
+  #one {
+    width: 80px;
+    height: 20px;
+    background: blue;
+    margin-left: 259px;
+  }
+
+  #two {
+    width: 80px;
+    height: 20px;
+    margin-left: 259px;
+    background: rgb(255, 0, 191);
+  }
+
+  #three {
+    width: 80px;
+    height: 20px;
+    margin-left: 259px;
+    background: rgb(24, 144, 165);
+    
+  }

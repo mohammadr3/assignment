@@ -1,0 +1,11 @@
+[
+    { "name" : "Fried" , "description" : "Fried chicken is very  deleciuos and very light on stomac" },
+    { "name" : "boiled" , "description" : "boiled chicken is very  deleciuos and very light on stomac" },
+    { "name" : "Grilled" , "description" : "Grilled chicken is very  deleciuos and very light on stomac" },
+    { "name" : "Alfredo" , "description" : "Alfredo chicken is very  deleciuos and very light on stomac" },
+    { "name" : "Lemon" , "description" : "Lemon chicken is very  deleciuos and very light on stomac" },
+    { "name" : "Roast" , "description" : "Roast chicken is very  deleciuos and very light on stomac" },
+    { "name" : "Biryani" , "description" : "Biryani chicken is very  deleciuos and very light on stomac" },
+    { "name" : "Tamale Pie" , "description" : "Tamale Pie chicken is very  deleciuos and very light on stomac" }
+
+]
