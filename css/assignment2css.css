@@ -225,3 +225,28 @@ p{
             
           }
       }
+      .lol{
+
+        background-color: blueviolet;
+        border-color: black;
+        border-style:dotted;
+        /* border: 2px;  */
+        margin-left: 2%;
+        margin-top: 0.5%;
+        margin-right: 5.5%;
+        
+      }
+      .a{
+        border: chartreuse;
+        border-style:groove;
+        /* display:flex; */
+      }
+
+      .lol_child{
+
+        margin: 5px;
+        background-color: #311630;
+        padding-bottom: 22px;
+        padding-left: 12px;
+
+      }
