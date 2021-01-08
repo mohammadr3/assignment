@@ -37,7 +37,7 @@ document.addEventListener("DOMContentLoaded",function(event){
             }
         };
 
-        xttp.open("GET" , "/js/chicken.json" , true ) ; //(POST in body , GET in url)
+        xttp.open("GET" , "js/chicken.json" , true ) ; //(POST in body , GET in url)
         xttp.send(null) ; // for post only   
 
     })
@@ -67,7 +67,7 @@ document.addEventListener("DOMContentLoaded",function(event){
             }
         };
 
-        xttp.open("GET" , "/js/two.json" , true ) ; //(POST in body , GET in url)
+        xttp.open("GET" , "js/two.json" , true ) ; //(POST in body , GET in url)
         xttp.send(null) ; // for post only   
 
     })
@@ -97,7 +97,7 @@ document.addEventListener("DOMContentLoaded",function(event){
             }
         };
 
-        xttp.open("GET" , "/js/three.json" , true ) ; //(POST in body , GET in url)
+        xttp.open("GET" , "js/three.json" , true ) ; //(POST in body , GET in url)
         xttp.send(null) ; // for post only   
 
     })
